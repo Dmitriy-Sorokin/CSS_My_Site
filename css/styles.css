@@ -1,0 +1,20 @@
+.head {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: #E4F9F5;
+}
+
+.middle{
+    width: 200px;
+    height: 200px;
+    margin-left: 220px;
+    background-color: red;
+}
+
+.footer{
+    width: 200px;
+    height: 200px;
+    margin-left: 420px;
+    background-color: blue;
+}
